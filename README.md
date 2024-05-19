@@ -77,3 +77,12 @@ Kullanıcı bilgilerini girip giriş yaptıktan sonra seçtiği spor dalına gö
 
 ![resim](https://github.com/dimitriadmclr/Nesne-Tabanl-Proje/assets/73696340/6772e731-44b1-48c6-9ed4-793dee7c52c5)
 
+
+
+Proje 8 Stok Takip Sistemi
+
+
+![resim](https://github.com/dimitriadmclr/Nesne-Tabanl-Proje/assets/73696340/1962fb10-130a-4f65-ad13-4e0bc9aabd10)
+
+
+Kullanıcı buradan sattığı ve aldığı ürünleri ekleyip stok sistemini takip edebiliyor 
