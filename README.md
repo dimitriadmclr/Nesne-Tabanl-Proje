@@ -6,6 +6,6 @@ Proje 1 Araç Kiralama
 
 ![Adsız png paint 1](https://github.com/dimitriadmclr/Nesne-Tabanl-Proje/assets/73696340/aeef2774-be5e-40a7-b201-78292dfeeb15)
 
-Burdan kullanıcı araç kiralama sisteminine giriyor
+Burdan kullanıcı araç kiralama sisteminine giriyor.Araç kiraladıktan sonra kiralama bilgisi ve kiralama iptal et gibi seçenekleri de kullanabiliyor.
 
-Proje 2
+Proje 2  Hastane Randevu Sistemi
