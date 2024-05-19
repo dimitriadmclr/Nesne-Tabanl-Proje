@@ -255,7 +255,7 @@ Kullanıcı olay ekle ve olay sorugula seçeneklerini seçebiliyor
 
 Olay ekleden eklediği olay sorgulama kısmında da gözüküyor
 
-![resim](https://github.com/dimitriadmclr/Nesne-Tabanl-Proje/assets/73696340/ae28d78a-4bed-4722-83fc-34026e97c072)
+![resim](https://github.com/dimitriadmclr/Nesne-Tabanl-Proje/assets/73696340/edf2626b-3e11-4aa5-9670-77d527dcc53d)
 
 Kullanıcı istediği olayı seçip olayı ve olayın başkahramanlarını öğrenebiliyor
 
