@@ -37,4 +37,15 @@ Proje 4 Etkinlik Yönetim Sistemi
 
 Kullanıcı sisteme giriş yaptıktan sonra müzik ve futbol biletlerini kategorilerine göre seçebiliyor seçtikten sonra kullanıcı kişisel bilgilerini girip bileti sepetine aktarabiliyor
 
+Proje 5 Online Eğitim Platformu 
 
+
+![resim](https://github.com/dimitriadmclr/Nesne-Tabanl-Proje/assets/73696340/1fd163b7-5b59-467c-9dec-d173dabc86e1)
+
+
+
+Kullanıcı Bilgilerini girdikten sonra dersi seçip dersi alabiliyor ve giriş yaptıktan sonra aldığı dersin içeriğini görebiliyor
+
+
+
+![resim](https://github.com/dimitriadmclr/Nesne-Tabanl-Proje/assets/73696340/67b933b8-f9f5-4fe1-8372-159271b5ba7d)
