@@ -199,6 +199,27 @@ kullanıcı bilgilerini girdikten sonra etkinliğe bilet alabiliyor
 
 
 
-Proje 14: İş Takip ve Yönetim Sistemi
+Proje 15: Okuma Listesi
+
+![resim](https://github.com/dimitriadmclr/Nesne-Tabanl-Proje/assets/73696340/340f054b-3bdf-4507-9ede-8eb5faf2fc1b)
+
+![resim](https://github.com/dimitriadmclr/Nesne-Tabanl-Proje/assets/73696340/615bdf4e-9e88-4569-9281-ef8a9bcef95f)
+
+Kullanıcı giriş yaptıktan sonra okuduğu kitabı seçer ve seçtiği kitap okuma listesinde gözükür.
+
+![resim](https://github.com/dimitriadmclr/Nesne-Tabanl-Proje/assets/73696340/bb5f7910-74bd-4f09-bb39-551506f7c231)
+![resim](https://github.com/dimitriadmclr/Nesne-Tabanl-Proje/assets/73696340/c62be836-45a6-4193-ab1d-db6645d47cb2)
+
+Okuduğu kitaplar hakkında yorum yapabilir ve yorumlarımda yorumu gözükür
+
+
+
+Proje 16: Film ve Dizi İzleme Servisi
+
+
+
+
+
+
 
 
