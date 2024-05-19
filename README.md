@@ -261,7 +261,12 @@ Kullanıcı istediği olayı seçip olayı ve olayın başkahramanlarını öğr
 
 
 
-Proje 19:
+Proje 19:Restoran Sipariş Yönetimi
+
+![resim](https://github.com/dimitriadmclr/Nesne-Tabanl-Proje/assets/73696340/8806312c-bacc-4197-9b09-8f8d8018bd37)
+
+
+Restoran Siparişlerini görüntüleyebiliyor Siparişi Tamamlaya basınca sipariş teslim edildi yazısı çıkıyor.
 
 
 
