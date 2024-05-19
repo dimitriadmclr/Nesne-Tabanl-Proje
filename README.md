@@ -270,7 +270,7 @@ Restoran Siparişlerini görüntüleyebiliyor Siparişi Tamamlaya basınca sipar
 
 
 
-Proje 20 : Oyun
+Proje 20: Video Oyun Koleksiyonu Yönetimi
 
 
 ![resim](https://github.com/dimitriadmclr/Nesne-Tabanl-Proje/assets/73696340/a18ef602-a585-4377-b1d9-37501b6e7ab2)
