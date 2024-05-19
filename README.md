@@ -93,12 +93,31 @@ Proje 9 Seyehat Uygulaması
 
 ![resim](https://github.com/dimitriadmclr/Nesne-Tabanl-Proje/assets/73696340/439bd159-6355-4639-8fab-04ea66a85575)
 
+
+Kullanıcı kaç kişi seyehat edeceğini yazıyor
+
+
 ![resim](https://github.com/dimitriadmclr/Nesne-Tabanl-Proje/assets/73696340/508dad89-9d0a-4d8f-bd1c-e36e2e969403)
+
+
+Yaşı eğer 18 den küçükse öğrenci fiyatı seçebiliyor ve daha uyguna geliyor eğer 18 den büyükse sadece tam fiyat aktif oluyor
+
 
 ![resim](https://github.com/dimitriadmclr/Nesne-Tabanl-Proje/assets/73696340/f7b4d7a1-643b-42c8-8f1b-0daeccd1e575)
 
+
+Düşündüğü fiyata göre konaklama türünü seçiyor
+
+
 ![resim](https://github.com/dimitriadmclr/Nesne-Tabanl-Proje/assets/73696340/c6ff675c-5ae9-4b4a-b8c3-07c44596f9ae)
 
+
+Otel fiyatları konaklama türünde seçtiği aralıklara göre otel fiyatları sunuyor
+
+
 ![resim](https://github.com/dimitriadmclr/Nesne-Tabanl-Proje/assets/73696340/bb6ee784-c25c-4772-bae1-17c794b50665)
+
+
+Uçak biletini de seçtikten sonra toplam fiyat gözüküyor
 
 
