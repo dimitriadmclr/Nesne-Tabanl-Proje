@@ -148,6 +148,8 @@ Müşteri şikayet ve isteklerini destek kısmında yazabiliyor
 
 ![resim](https://github.com/dimitriadmclr/Nesne-Tabanl-Proje/assets/73696340/e7d327be-ef9f-4ea5-baec-525fd44e0e67)
 ![resim](https://github.com/dimitriadmclr/Nesne-Tabanl-Proje/assets/73696340/5b6d9711-c81a-4b5e-8749-d922ca1f6ff0)
+![resim](https://github.com/dimitriadmclr/Nesne-Tabanl-Proje/assets/73696340/59440afc-4e23-49f2-97c9-423d17337d60)
+
 
 
 Admin ekranında satın alınan ürünler ve müşterinin destek kısmında yazdıkları gözüküyor
