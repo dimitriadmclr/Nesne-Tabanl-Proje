@@ -235,10 +235,14 @@ Proje 17: Eğitim Materyali Paylaşım Platformu
 
 Öğrenci Bilgileri sekmesine öğrencinin adı soyadı derse katılımı yazıyor
 
-![resim](https://github.com/dimitriadmclr/Nesne-Tabanl-Proje/assets/73696340/39ada47b-3b20-43bd-86c4-8787e967c621)
+![resim](https://github.com/dimitriadmclr/Nesne-Tabanl-Proje/assets/73696340/4b2c7fda-ec64-44ab-83bf-73e12a525326)
 
 
 Öğrenci Materyal yükle sekmesine bastığı zaman bilgisayarda dosya seçme ekranı açılıyor
+
+Proje 18: Tarihçi - Tarihi Olaylar Veritabanı
+
+
 
 
 
