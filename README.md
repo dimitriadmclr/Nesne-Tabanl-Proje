@@ -121,3 +121,33 @@ Otel fiyatları konaklama türünde seçtiği aralıklara göre otel fiyatları 
 Uçak biletini de seçtikten sonra toplam fiyat gözüküyor
 
 
+Proje 10 Ürün Satış
+
+
+![resim](https://github.com/dimitriadmclr/Nesne-Tabanl-Proje/assets/73696340/bac48d03-533a-4989-bc0a-f29a29961de1)
+
+
+Kullanıcı admin veya müşteri girişi seçeneklerinden birini seçiyor
+
+
+![resim](https://github.com/dimitriadmclr/Nesne-Tabanl-Proje/assets/73696340/4373496f-ff3a-4ab3-b405-34174eb15be6)
+
+
+Müşteri bilgilerini girdikten sonra sisteme girebiliyor
+
+
+![resim](https://github.com/dimitriadmclr/Nesne-Tabanl-Proje/assets/73696340/6317f752-3b32-45a6-a6b3-91f16b89bec2)
+
+
+Satın alabileceği ürünler gözüküyor
+
+
+![resim](https://github.com/dimitriadmclr/Nesne-Tabanl-Proje/assets/73696340/87252cc4-c54a-4c84-aeeb-9739d366eb99)
+
+Müşteri şikayet ve isteklerini destek kısmında yazabiliyor
+
+![resim](https://github.com/dimitriadmclr/Nesne-Tabanl-Proje/assets/73696340/e7d327be-ef9f-4ea5-baec-525fd44e0e67)
+
+Admin ekranında satın alınan ürünler ve müşterinin destek kısmında yazdıkları gözüküyor
+
+
