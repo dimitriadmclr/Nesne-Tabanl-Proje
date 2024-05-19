@@ -240,7 +240,31 @@ Proje 17: Eğitim Materyali Paylaşım Platformu
 
 Öğrenci Materyal yükle sekmesine bastığı zaman bilgisayarda dosya seçme ekranı açılıyor
 
+
+
 Proje 18: Tarihçi - Tarihi Olaylar Veritabanı
+
+
+![resim](https://github.com/dimitriadmclr/Nesne-Tabanl-Proje/assets/73696340/27b781b3-e46f-4829-ae39-9dafe4a56bcb)
+
+![resim](https://github.com/dimitriadmclr/Nesne-Tabanl-Proje/assets/73696340/1ad9e37b-d20b-4ef5-a04a-673f345f42d4)
+
+Kullanıcı olay ekle ve olay sorugula seçeneklerini seçebiliyor
+
+![resim](https://github.com/dimitriadmclr/Nesne-Tabanl-Proje/assets/73696340/9fd0cdd8-fbab-4b93-b97b-46b5afb1f4c9)
+
+Olay ekleden eklediği olay sorgulama kısmında da gözüküyor
+
+![resim](https://github.com/dimitriadmclr/Nesne-Tabanl-Proje/assets/73696340/ae28d78a-4bed-4722-83fc-34026e97c072)
+
+Kullanıcı istediği olayı seçip olayı ve olayın başkahramanlarını öğrenebiliyor
+
+
+
+Proje 19:
+
+
+
 
 
 
