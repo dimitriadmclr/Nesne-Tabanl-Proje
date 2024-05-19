@@ -227,9 +227,18 @@ Proje 16: Film ve Dizi İzleme Servisi
 Kullanıcı giriş yaptıktan sonra Menüde içerikler sekmesinden Film izleyebiliyor izlediği filmler izleme geçmişinde gözüküyor
 
 
+Proje 17: Eğitim Materyali Paylaşım Platformu
+
+![resim](https://github.com/dimitriadmclr/Nesne-Tabanl-Proje/assets/73696340/d59be1af-10f3-4142-b290-4f4992101a75)
+
+![resim](https://github.com/dimitriadmclr/Nesne-Tabanl-Proje/assets/73696340/47930950-9640-495e-8feb-63ff360281e6)
+
+Öğrenci Bilgileri sekmesine öğrencinin adı soyadı derse katılımı yazıyor
+
+![resim](https://github.com/dimitriadmclr/Nesne-Tabanl-Proje/assets/73696340/39ada47b-3b20-43bd-86c4-8787e967c621)
 
 
-
+Öğrenci Materyal yükle sekmesine bastığı zaman bilgisayarda dosya seçme ekranı açılıyor
 
 
 
