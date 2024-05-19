@@ -49,3 +49,15 @@ Kullanıcı Bilgilerini girdikten sonra dersi seçip dersi alabiliyor ve giriş 
 
 
 ![resim](https://github.com/dimitriadmclr/Nesne-Tabanl-Proje/assets/73696340/67b933b8-f9f5-4fe1-8372-159271b5ba7d)
+
+
+
+Proje 6 Yemek Tarifi 
+
+
+![resim](https://github.com/dimitriadmclr/Nesne-Tabanl-Proje/assets/73696340/8fa2f94b-5881-490f-b19a-46e800e452e4)
+![resim](https://github.com/dimitriadmclr/Nesne-Tabanl-Proje/assets/73696340/a26724e9-18ac-4c70-b915-9a8d43a6de19)
+
+
+
+Kullanıcı kayıt olup giriş yaptıktan sonra bu ekrandan yemek tariflerine bakabiliyor ve yemke tarifi ekleyip değerlendirebiliyor.
