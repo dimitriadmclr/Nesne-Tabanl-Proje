@@ -62,15 +62,14 @@ class Arayuz:
         self.kullanici = Kullanici(ad, soyad, email)
         self.kullanici_bilgi.insert(tk.END, f"Giriş başarılı! Hoş geldiniz, {ad} {soyad}.\n")
 
-        # self.ikinci_sayfa = IkinciSayfa(self.root, self.kullanici, self.bilet_listesi)
+        self.ikinci_sayfa = IkinciSayfa(self.root, self.kullanici, self.bilet_listesi)
 
     def bilet_detay(self, event):
         selection = event.widget.curselection()
         if selection:
             index = selection[0]
             bilet = self.kullanici.biletler[index]
-
-            # bilet_detay = BiletDetay(self.root, bilet, self.kullanici)
+            bilet_detay = BiletDetay(self.root, bilet, self.kullanici, self.bilet_listesi)
 
 class IkinciSayfa:
     def __init__(self, root, kullanici, bilet_listesi):
@@ -93,47 +92,58 @@ class IkinciSayfa:
 
     def bilet_al(self):
         etkinlik = self.etkinlik_combo.get()
-        yeni_etkinlik = Etkinlik(etkinlik, "10.10.2024", "Örnek Mekan")
-        bilet_numarasi = random.randint(10000, 99999)
-        yeni_bilet = Bilet(bilet_numarasi, yeni_etkinlik)
+        if etkinlik:
+            yeni_etkinlik = Etkinlik(etkinlik, "10.10.2024", "Örnek Mekan")
+            bilet_numarasi = random.randint(10000, 99999)
+            yeni_bilet = Bilet(bilet_numarasi, yeni_etkinlik)
 
-        if len([b for b in self.kullanici.biletler if b.etkinlik.ad == yeni_etkinlik.ad]) > 0:
-            messagebox.showerror("Hata", "Aynı etkinlikten birden fazla bilet alınamaz!")
+            if len([b for b in self.kullanici.biletler if b.etkinlik.ad == yeni_etkinlik.ad]) > 0:
+                messagebox.showerror("Hata", "Aynı etkinlikten birden fazla bilet alınamaz!")
+            else:
+                self.kullanici.biletler.append(yeni_bilet)
+                self.bilet_listesi.insert(tk.END, f"{yeni_etkinlik.ad} - Bilet Numarası: {bilet_numarasi}")
         else:
-            self.kullanici.biletler.append(yeni_bilet)
-            self.bilet_listesi.insert(tk.END, f"{yeni_etkinlik.ad} - Bilet Numarası: {bilet_numarasi}")
+            messagebox.showerror("Hata", "Lütfen bir etkinlik seçin!")
 
-# class BiletDetay:
-#     def __init__(self, root, bilet, kullanici):
-#         self.root = root
-#         self.bilet = bilet
-#         self.kullanici = kullanici
-#
-#         self.bilet_detay = tk.Toplevel(self.root)
-#         self.bilet_detay.title("Bilet Detayı")
-#         self.bilet_detay.configure(background="white")
-#
-#         ttk.Label(self.bilet_detay, text=f"{self.bilet.etkinlik.ad} Bilet Detayı").grid(row=0, column=0, columnspan=2, padx=5, pady=5)
-#
-#         ttk.Label(self.bilet_detay, text=f"Bilet Numarası: {self.bilet.numara}").grid(row=1, column=0, columnspan=2, padx=5, pady=5)
-#
-#         ttk.Label(self.bilet_detay, text="Bilet İşlemleri").grid(row=2, column=0, columnspan=2, padx=5, pady=5)
-#
-#         self.satis_btn = ttk.Button(self.bilet_detay, text="Satış Yap", command=self.satis)
-#         self.satis_btn.grid(row=3, column=0, padx=5, pady=5)
-#
-#         self.iade_btn = ttk.Button(self.bilet_detay, text="İade Yap", command=self.iade)
-#         self.iade_btn.grid(row=3, column=1, padx=5, pady=5)
+class BiletDetay:
+    def __init__(self, root, bilet, kullanici, bilet_listesi):
+        self.root = root
+        self.bilet = bilet
+        self.kullanici = kullanici
+        self.bilet_listesi = bilet_listesi
 
-#     def satis(self):
-#         self.kullanici.biletler.remove(self.bilet)
-#         messagebox.showinfo("Bilgi", "Bilet satışı başarıyla gerçekleştirildi.")
-#         self.root.destroy()
-#
-#     def iade(self):
-#         self.kullanici.biletler.remove(self.bilet)
-#         messagebox.showinfo("Bilgi", "Bilet iadesi başarıyla gerçekleştirildi.")
-#         self.root.destroy()
+        self.bilet_detay = tk.Toplevel(self.root)
+        self.bilet_detay.title("Bilet Detayı")
+        self.bilet_detay.configure(background="white")
+
+        ttk.Label(self.bilet_detay, text=f"{self.bilet.etkinlik.ad} Bilet Detayı").grid(row=0, column=0, columnspan=2, padx=5, pady=5)
+
+        ttk.Label(self.bilet_detay, text=f"Bilet Numarası: {self.bilet.numara}").grid(row=1, column=0, columnspan=2, padx=5, pady=5)
+
+        ttk.Label(self.bilet_detay, text="Bilet İşlemleri").grid(row=2, column=0, columnspan=2, padx=5, pady=5)
+
+        self.satis_btn = ttk.Button(self.bilet_detay, text="Satış Yap", command=self.satis)
+        self.satis_btn.grid(row=3, column=0, padx=5, pady=5)
+
+        self.iade_btn = ttk.Button(self.bilet_detay, text="İade Yap", command=self.iade)
+        self.iade_btn.grid(row=3, column=1, padx=5, pady=5)
+
+    def satis(self):
+        self.kullanici.biletler.remove(self.bilet)
+        self.update_bilet_listesi()
+        messagebox.showinfo("Bilgi", "Bilet satışı başarıyla gerçekleştirildi.")
+        self.bilet_detay.destroy()
+
+    def iade(self):
+        self.kullanici.biletler.remove(self.bilet)
+        self.update_bilet_listesi()
+        messagebox.showinfo("Bilgi", "Bilet iadesi başarıyla gerçekleştirildi.")
+        self.bilet_detay.destroy()
+
+    def update_bilet_listesi(self):
+        self.bilet_listesi.delete(0, tk.END)
+        for bilet in self.kullanici.biletler:
+            self.bilet_listesi.insert(tk.END, f"{bilet.etkinlik.ad} - Bilet Numarası: {bilet.numara}")
 
 if __name__ == "__main__":
     root = tk.Tk()
