@@ -12,14 +12,18 @@ Proje 2  Hastane Randevu Sistemi
 
 
 
-
 ![resim](https://github.com/dimitriadmclr/Nesne-Tabanl-Proje/assets/73696340/2fa0aa33-3198-4d66-828f-ce5e0041c761)
 
+Proje 3 Kütüphane Yönetim Sistemi
+
+
+
+![resim](https://github.com/dimitriadmclr/Nesne-Tabanl-Proje/assets/73696340/3ac39f0a-8679-40e8-aac8-7254908435e6)
+
+
+Kullanıcı buradan kayıt olduktan sonra kayıt olduğu bilgilerle giril yaptıktan sonra kitap ekleden okuduğu kitabı ekleyebiliyor ardından eklenen kitaplar kısmından görebiliyor.
 
 Kullanıcı buradan kişisel bilgilerini girdikten sonra doktor randevusu oluşturabiliyor,başarıyla oluşturulan randevular alt kutucukta gözüküyor
-
-
-Proje 3 Kütüphane Yönetim Sistemi
 
 
 
