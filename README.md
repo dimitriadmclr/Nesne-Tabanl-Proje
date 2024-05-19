@@ -60,4 +60,8 @@ Proje 6 Yemek Tarifi
 
 
 
-Kullanıcı kayıt olup giriş yaptıktan sonra bu ekrandan yemek tariflerine bakabiliyor ve yemke tarifi ekleyip değerlendirebiliyor.
+Kullanıcı kayıt olup giriş yaptıktan sonra bu ekrandan yemek tariflerine bakabiliyor ve yemek tarifi ekleyip değerlendirebiliyor.
+
+
+
+Proje 7 
