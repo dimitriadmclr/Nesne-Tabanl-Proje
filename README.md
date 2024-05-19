@@ -215,6 +215,18 @@ Okuduğu kitaplar hakkında yorum yapabilir ve yorumlarımda yorumu gözükür
 
 
 Proje 16: Film ve Dizi İzleme Servisi
+![resim](https://github.com/dimitriadmclr/Nesne-Tabanl-Proje/assets/73696340/876fd135-5b24-443a-bb9c-24286cee9c42)
+
+![resim](https://github.com/dimitriadmclr/Nesne-Tabanl-Proje/assets/73696340/0ca2b622-b34b-4301-a7d4-ab08f8fc15f3)
+
+![resim](https://github.com/dimitriadmclr/Nesne-Tabanl-Proje/assets/73696340/52291b57-d71b-49d6-bf36-e2b1f2f3887d)
+
+![resim](https://github.com/dimitriadmclr/Nesne-Tabanl-Proje/assets/73696340/e2339ceb-fd99-4421-8639-841e33999b96)
+
+
+Kullanıcı giriş yaptıktan sonra Menüde içerikler sekmesinden Film izleyebiliyor izlediği filmler izleme geçmişinde gözüküyor
+
+
 
 
 
