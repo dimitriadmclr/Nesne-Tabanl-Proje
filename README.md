@@ -64,4 +64,16 @@ Kullanıcı kayıt olup giriş yaptıktan sonra bu ekrandan yemek tariflerine ba
 
 
 
-Proje 7 
+Proje 7 Sporcu Takip Uygulaması
+
+
+
+![resim](https://github.com/dimitriadmclr/Nesne-Tabanl-Proje/assets/73696340/a77f4d9a-7347-43c1-a70b-71a6798b8b3c)
+![resim](https://github.com/dimitriadmclr/Nesne-Tabanl-Proje/assets/73696340/17b736f4-6ce2-4c55-9563-cb3cc9f2b383)
+
+
+Kullanıcı bilgilerini girip giriş yaptıktan sonra seçtiği spor dalına göre kişiye özel antrenman programını görebiliyor kullanıcı antrenmanını yapıp yandaki kutucukları işaretlediğinde ilerlemelerim sekmesinde gözüküyor
+
+
+![resim](https://github.com/dimitriadmclr/Nesne-Tabanl-Proje/assets/73696340/6772e731-44b1-48c6-9ed4-793dee7c52c5)
+
