@@ -31,4 +31,10 @@ Proje 4 Etkinlik Yönetim Sistemi
 
 
 
+![resim](https://github.com/dimitriadmclr/Nesne-Tabanl-Proje/assets/73696340/e4f54fb5-c50c-4481-858b-c3a136b37ea9)
+![resim](https://github.com/dimitriadmclr/Nesne-Tabanl-Proje/assets/73696340/bab18e5f-4460-48b6-b062-ef7e2f497a71)
+
+
+Kullanıcı sisteme giriş yaptıktan sonra müzik ve futbol biletlerini kategorilerine göre seçebiliyor seçtikten sonra kullanıcı kişisel bilgilerini girip bileti sepetine aktarabiliyor
+
 
