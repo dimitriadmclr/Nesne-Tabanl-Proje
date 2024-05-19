@@ -155,3 +155,19 @@ Müşteri şikayet ve isteklerini destek kısmında yazabiliyor
 Admin ekranında satın alınan ürünler ve müşterinin destek kısmında yazdıkları gözüküyor
 
 
+
+Proje 11: Müzik Enstrümanı Dükkanı Yönetimi
+
+
+![resim](https://github.com/dimitriadmclr/Nesne-Tabanl-Proje/assets/73696340/3dd806d1-a515-42b9-9d2d-d218d7db323f)
+
+![resim](https://github.com/dimitriadmclr/Nesne-Tabanl-Proje/assets/73696340/3dd806d1-a515-42b9-9d2d-d218d7db323f)
+
+![resim](https://github.com/dimitriadmclr/Nesne-Tabanl-Proje/assets/73696340/443c9efe-7087-424c-a59e-0571f5402384)
+
+
+Müşteri bilgilerini girdikten sonra enstrümanı seçip satın alabiliyor satın aldıkları sipariş geçmişinde gözüküyor ve destek talebi oluşturabiliyor
+
+![resim](https://github.com/dimitriadmclr/Nesne-Tabanl-Proje/assets/73696340/7ee9f25a-e3af-45cd-852b-8f8b9a06eb70)
+
+Admin ekranında Dükkan Yönetim sistemi açılıyor ve enstrüman ekleyip sattığı ürünlerin stoğunu yapabiliyor
