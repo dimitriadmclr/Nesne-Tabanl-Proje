@@ -171,3 +171,19 @@ Müşteri bilgilerini girdikten sonra enstrümanı seçip satın alabiliyor sat�
 ![resim](https://github.com/dimitriadmclr/Nesne-Tabanl-Proje/assets/73696340/7ee9f25a-e3af-45cd-852b-8f8b9a06eb70)
 
 Admin ekranında Dükkan Yönetim sistemi açılıyor ve enstrüman ekleyip sattığı ürünlerin stoğunu yapabiliyor
+
+
+
+
+Proje 12: Kişisel Sağlık Uygulaması
+
+
+![resim](https://github.com/dimitriadmclr/Nesne-Tabanl-Proje/assets/73696340/ccfaee4f-a9ba-46d7-a15f-839c00abd6a2)
+
+Kullanıcı bilgilerini ve hastalığını giriyor
+
+![resim](https://github.com/dimitriadmclr/Nesne-Tabanl-Proje/assets/73696340/87317a4a-5082-4191-b05f-82e935584dd4)
+
+
+Hastalığa özel rapor alabiliyor
+
