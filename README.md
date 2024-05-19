@@ -187,3 +187,18 @@ Kullanıcı bilgilerini ve hastalığını giriyor
 
 Hastalığa özel rapor alabiliyor
 
+
+
+Proje 13: Bilet Alma
+
+
+![resim](https://github.com/dimitriadmclr/Nesne-Tabanl-Proje/assets/73696340/8b991957-89f5-46fc-b364-4a5efa78aa30)
+
+
+kullanıcı bilgilerini girdikten sonra etkinliğe bilet alabiliyor
+
+
+
+Proje 14: İş Takip ve Yönetim Sistemi
+
+
